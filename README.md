@@ -9,7 +9,7 @@
 
 ![](https://i.imgur.com/RYnzHhP.png)
 
-## [Domain 1](Domain%201/Domain%201.md)
+## [Domain 1](Domain%201/Domain%201.md) - Security and Risk management
 ## [Domain 2](Domain%202/Domain%202.md)
 ## [Domain 3](Domain%203/Domain%203.md)
 ## [Domain 4](Domain%204/Domain%204.md)
