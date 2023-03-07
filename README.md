@@ -12,11 +12,11 @@
 ## [Domain 1](Domain%201/Domain%201.md)
 ## [Domain 2](Domain%202/Domain%202.md)
 ## [Domain 3](Domain%203/Domain%203.md)
-## [[Domain 4]]
-## [[Domain 5]]
-## [[Domain 6]]
-## [[Domain 7]]
-## [[Domain 8]]
+## [Domain 4](Domain%204.md)
+## [Domain 5](Domain%205.md)
+## [Domain 6](Domain%206.md)
+## [Domain 7](Domain%207.md)
+## [Domain 8](Domain%208.md)
 
 ![cissp](https://user-images.githubusercontent.com/63926014/221782281-bcff37f3-1a4a-4afc-ba84-ff0f1faf77bd.png)
 
