@@ -20,6 +20,7 @@ At the end of the day, the CISSP exam like every other exam out there is about p
 
 ## Useful Videos: 
 - Exam Cram https://youtu.be/_nyZhYnCNLA
+- TCM https://youtu.be/qOs0Qu73UCE
 
 
 
