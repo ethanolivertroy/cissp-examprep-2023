@@ -8,7 +8,7 @@ As I answered more questions, I realized that my understanding of the material i
 
 At the end of the day, the CISSP exam like every other exam out there is about pattern recognition, and doing practice questions will help you train your test-taking natural learning model. So, instead of trying to cover everything and take notes perfectly, focus on doing what is required to achieve your goal. Don't be afraid to change your study approach if it's not working for you.
 
-![](https://i.imgur.com/RYnzHhP.png)
+![image](https://github.com/ethanolivertroy/cissp-examprep-2023/assets/63926014/f110ae9b-383f-4c4a-b2f3-542d916ae3c8)
 
 
 ## Prime Study Resource:
@@ -22,6 +22,3 @@ At the end of the day, the CISSP exam like every other exam out there is about p
 - Exam Cram https://youtu.be/_nyZhYnCNLA
 - TCM https://youtu.be/qOs0Qu73UCE
 
-
-
-![cissp](https://user-images.githubusercontent.com/63926014/221782281-bcff37f3-1a4a-4afc-ba84-ff0f1faf77bd.png)
